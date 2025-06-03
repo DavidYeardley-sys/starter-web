@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull REquests for review
 
 ## Copyright
 
-2025 DGY
+2025 DGY. All rights reserved.
